@@ -4,5 +4,7 @@ public class Hello {
 		// TODO Auto-generated method stub
         System.out.println("Hello, World !!!!!");
 	}
-
+	public int multiplication(int a, int b) {
+		return a*b;
+	}
 }
